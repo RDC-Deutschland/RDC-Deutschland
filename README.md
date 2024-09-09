@@ -1,11 +1,24 @@
-Hi there, we're @RDC-Deutschland
+# Hi there, we're @RDC-Deutschland
 
-The RDC Deutschland Group, based in Hamburg/Germany with locations in Niebüll and Nuremberg, 
-is part of the Railroad Development Corporation (RDC) based in Pittsburgh/USA. 
+## Who we are
 
-Founded by Henry Posner III, the family-owned railroad company can boast almost three decades 
+The [RDC Deutschland Gruppe](https://www.rdc-deutschland.de/ "RDC Deutschland Gruppe"), based in Hamburg/Germany with locations in Niebüll and Nuremberg, 
+is part of the [Railroad Development Corporation](https://rrdc.com/ "Railroad Development Corporation") (RDC) based in Pittsburgh/USA. 
+
+Founded by [Henry Posner III](https://rrdc.com/team_members/henry-posner-iii/ "Henry Posner III"), the family-owned railroad company can boast almost three decades 
 of experience in the railroad industry. RDC's goal is to bring more climate-friendly 
 transportation to the railroad in selected international rail projects.
+
+## Activities in Germany
+
+Our activities in Germany include
+- operation of railway infrastructure,
+- operation of workshops,
+- running of rail transport services (passenger and freight),
+- leasing of rolling stock (especially passenger carriages) and
+- organisation of rail vehicle maintenance (ECM).
+
+Want to know more? Visit our [website](https://www.rdc-deutschland.de/ "RDC Deutschland Gruppe")!
 
 <!---
 RDC-Deutschland/RDC-Deutschland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
